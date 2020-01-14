@@ -5,7 +5,7 @@ Resido em Recife/PE.
 
 Sou formado em Sistemas de Informação pela Uninassau (Presencial - Recife). 
 
-Também sou pós graduado (MBA) em Análise em Inteligência de Negócios pelo Instituto de Gestão em Tecnologia da Informação - IGTI (EAD e apresentação/defesa do TCC presencial em Recife).
+Também sou pós graduado (MBA) em Análise em Inteligência de Negócios pelo Instituto de Gestão e Tecnologia da Informação - IGTI (EAD e apresentação/defesa do TCC presencial em Recife).
 
 Atualmente estou cursando outra pós graduação (Especialização) em Análise e Engenharia de Dados no CESAR School em parceria com o Centro de Informática da Universidade Federal de Pernambuco - CInUFPE (Presencial - Recife).
 

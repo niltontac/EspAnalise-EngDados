@@ -14,8 +14,11 @@ Aqui você encontra minhas análises de dados colocando em prática os conhecime
 Agradeço sua visita.
 
 Nilton Thiago de Andrade Coura
+
 Analista de Sistemas e Negócios
+
 Futuro Engenheiro e Cientista de Dados
+
 Contato: niltontac@gmail.com
 
 

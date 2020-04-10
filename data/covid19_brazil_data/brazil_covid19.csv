@@ -1916,3 +1916,30 @@ date,region,state,cases,deaths
 2020-04-09,Sul,Paraná,609,22
 2020-04-09,Sul,Rio Grande do Sul,618,12
 2020-04-09,Sul,Santa Catarina,501,17
+2020-04-10,Centro-Oeste,Distrito Federal,555,14
+2020-04-10,Centro-Oeste,Goiás,191,8
+2020-04-10,Centro-Oeste,Mato Grosso,112,2
+2020-04-10,Centro-Oeste,Mato Grosso do Sul,97,2
+2020-04-10,Nordeste,Alagoas,45,3
+2020-04-10,Nordeste,Bahia,604,19
+2020-04-10,Nordeste,Ceará,1478,58
+2020-04-10,Nordeste,Maranhão,293,16
+2020-04-10,Nordeste,Paraíba,79,11
+2020-04-10,Nordeste,Pernambuco,684,65
+2020-04-10,Nordeste,Piauí,40,7
+2020-04-10,Nordeste,Rio Grande do Norte,263,11
+2020-04-10,Nordeste,Sergipe,42,4
+2020-04-10,Norte,Acre,70,2
+2020-04-10,Norte,Amapá,166,2
+2020-04-10,Norte,Amazonas,981,50
+2020-04-10,Norte,Pará,170,9
+2020-04-10,Norte,Rondônia,32,2
+2020-04-10,Norte,Roraima,63,3
+2020-04-10,Norte,Tocantins,23,0
+2020-04-10,Sudeste,Espírito Santo,300,7
+2020-04-10,Sudeste,Minas Gerais,698,17
+2020-04-10,Sudeste,Rio de Janeiro,2464,147
+2020-04-10,Sudeste,São Paulo,8216,540
+2020-04-10,Sul,Paraná,643,25
+2020-04-10,Sul,Rio Grande do Sul,636,14
+2020-04-10,Sul,Santa Catarina,693,18

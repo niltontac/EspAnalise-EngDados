@@ -1,25 +1,21 @@
-Olá, seja bem vindo.
+Hi!
 
-Meu nome é Nilton.
-Resido em Recife/PE.
+My name is Nilton. 
+I'm System and Business Analyst. I'm studying and training to become an engineer and data scientist.
 
-Graduado em Sistemas de Informação pela Uninassau (Presencial - Recife). 
+Live in Recife, State of Pernambuco, Brazil.
 
-Pós graduado (MBA) em Análise em Inteligência de Negócios pelo Instituto de Gestão e Tecnologia da Informação - IGTI (EAD e apresentação/defesa do TCC presencial em Recife).
+Have degree in Information Systems at Uninassau.
 
-Atualmente cursando outra pós graduação (Especialização) em Análise e Engenharia de Dados no CESAR School em parceria com o Centro de Informática da Universidade Federal de Pernambuco - CInUFPE (Presencial - Recife).
+I'm also a Postgraduate (MBA) in Business Intelligence Analysis at Institute of Management and Information Technology - IGTI.
 
-Aqui você encontra minhas análises de dados colocando em prática os conhecimentos adquiridos sobretudo na especialização em andamento no CESAR School. Acesse os arquivos da pasta "notebooks" para visualizar as análises.
+Currently taking another postgraduate course (Specialization) in Data Analysis and Engineering at CESAR School in partnership with the Informatics Center at the Federal University of Pernambuco - CIn/UFPE.
 
-Agradeço sua visita.
+Here you will find my data analysis putting into practice the knowledge acquired mainly in the specialization in progress at CESAR School. Access the files in the "notebooks" folder to view the analysis.
 
-Nilton Thiago de Andrade Coura
+I appreciate your visit.
 
-Analista de Sistemas e Negócios
-
-Futuro Engenheiro e Cientista de Dados
-
-Contato: niltontac@gmail.com
+Contact: niltontac@gmail.com
 
 
 

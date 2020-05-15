@@ -66691,3 +66691,1120 @@ date,state,name,code,cases,deaths
 2020-05-13,Tocantins,São Miguel do Tocantins,172020,25,2
 2020-05-13,Tocantins,Sítio Novo do Tocantins,172080,14,1
 2020-05-13,Tocantins,Tocantinópolis,172120,6,1
+2020-05-14,Acre,Acrelândia,120001,47,1
+2020-05-14,Acre,Cruzeiro do Sul,120020,144,1
+2020-05-14,Acre,Plácido de Castro,120038,89,3
+2020-05-14,Acre,Rio Branco,120040,1311,49
+2020-05-14,Acre,Tarauacá,120060,22,1
+2020-05-14,Alagoas,Anadia,270020,2,1
+2020-05-14,Alagoas,Arapiraca,270030,52,6
+2020-05-14,Alagoas,Atalaia,270040,19,1
+2020-05-14,Alagoas,Batalha,270070,5,1
+2020-05-14,Alagoas,Cacimbinhas,270120,2,1
+2020-05-14,Alagoas,Campestre,270135,10,1
+2020-05-14,Alagoas,Campo Alegre,270140,4,1
+2020-05-14,Alagoas,Coruripe,270230,33,2
+2020-05-14,Alagoas,Delmiro Gouveia,270240,2,1
+2020-05-14,Alagoas,Flexeiras,270280,2,1
+2020-05-14,Alagoas,Ibateguara,270300,1,1
+2020-05-14,Alagoas,Japaratinga,270360,5,1
+2020-05-14,Alagoas,Joaquim Gomes,270380,5,2
+2020-05-14,Alagoas,Lagoa da Canoa,270410,1,1
+2020-05-14,Alagoas,Limoeiro de Anadia,270420,6,1
+2020-05-14,Alagoas,Maceió,270430,2170,112
+2020-05-14,Alagoas,Maragogi,270450,17,2
+2020-05-14,Alagoas,Marechal Deodoro,270470,72,6
+2020-05-14,Alagoas,Maribondo,270480,3,1
+2020-05-14,Alagoas,Matriz de Camaragibe,270510,4,1
+2020-05-14,Alagoas,Messias,270520,7,1
+2020-05-14,Alagoas,Murici,270550,49,2
+2020-05-14,Alagoas,Novo Lino,270560,1,1
+2020-05-14,Alagoas,Palmeira dos Índios,270630,50,2
+2020-05-14,Alagoas,Paripueira,270644,7,3
+2020-05-14,Alagoas,Paulo Jacinto,270660,4,1
+2020-05-14,Alagoas,Penedo,270670,7,2
+2020-05-14,Alagoas,Piaçabuçu,270680,7,1
+2020-05-14,Alagoas,Pilar,270690,23,2
+2020-05-14,Alagoas,Porto Calvo,270730,14,1
+2020-05-14,Alagoas,Rio Largo,270770,69,3
+2020-05-14,Alagoas,Santana do Ipanema,270800,23,2
+2020-05-14,Alagoas,Satuba,270890,54,1
+2020-05-14,Alagoas,São Miguel dos Campos,270860,19,1
+2020-05-14,Alagoas,São Miguel dos Milagres,270870,13,1
+2020-05-14,Alagoas,Teotônio Vilela,270915,23,1
+2020-05-14,Alagoas,União dos Palmares,270930,31,3
+2020-05-14,Alagoas,Viçosa,270940,6,1
+2020-05-14,Amapá,Amapá,160010,10,1
+2020-05-14,Amapá,Ferreira Gomes,160023,11,1
+2020-05-14,Amapá,Laranjal do Jari,160027,237,17
+2020-05-14,Amapá,Macapá,160030,2353,62
+2020-05-14,Amapá,Mazagão,160040,45,1
+2020-05-14,Amapá,Oiapoque,160050,59,1
+2020-05-14,Amapá,Pedra Branca do Amapari,160015,43,1
+2020-05-14,Amapá,Porto Grande,160053,63,2
+2020-05-14,Amapá,Santana,160060,470,13
+2020-05-14,Amapá,Tartarugalzinho,160070,12,1
+2020-05-14,Amapá,Vitória do Jari,160080,42,1
+2020-05-14,Amazonas,Alvarães,130002,7,3
+2020-05-14,Amazonas,Amaturá,130006,154,4
+2020-05-14,Amazonas,Anori,130010,109,1
+2020-05-14,Amazonas,Autazes,130030,214,21
+2020-05-14,Amazonas,Barcelos,130040,74,6
+2020-05-14,Amazonas,Barreirinha,130050,60,1
+2020-05-14,Amazonas,Benjamin Constant,130060,92,10
+2020-05-14,Amazonas,Beruri,130063,57,5
+2020-05-14,Amazonas,Boca do Acre,130070,168,1
+2020-05-14,Amazonas,Borba,130080,52,6
+2020-05-14,Amazonas,Caapiranga,130083,12,1
+2020-05-14,Amazonas,Carauari,130100,131,1
+2020-05-14,Amazonas,Careiro,130110,271,6
+2020-05-14,Amazonas,Coari,130120,439,35
+2020-05-14,Amazonas,Codajás,130130,16,1
+2020-05-14,Amazonas,Fonte Boa,130160,74,4
+2020-05-14,Amazonas,Iranduba,130185,289,23
+2020-05-14,Amazonas,Itacoatiara,130190,308,33
+2020-05-14,Amazonas,Itapiranga,130200,51,2
+2020-05-14,Amazonas,Jutaí,130230,45,1
+2020-05-14,Amazonas,Manacapuru,130250,1150,56
+2020-05-14,Amazonas,Manaquiri,130255,62,5
+2020-05-14,Amazonas,Manaus,130260,9410,809
+2020-05-14,Amazonas,Manicoré,130270,23,2
+2020-05-14,Amazonas,Maués,130290,222,20
+2020-05-14,Amazonas,Nhamundá,130300,25,1
+2020-05-14,Amazonas,Nova Olinda do Norte,130310,45,1
+2020-05-14,Amazonas,Novo Airão,130320,101,8
+2020-05-14,Amazonas,Novo Aripuanã,130330,36,3
+2020-05-14,Amazonas,Parintins,130340,530,39
+2020-05-14,Amazonas,Presidente Figueiredo,130353,204,9
+2020-05-14,Amazonas,Rio Preto da Eva,130356,279,7
+2020-05-14,Amazonas,Santa Isabel do Rio Negro,130360,7,1
+2020-05-14,Amazonas,Santo Antônio do Içá,130370,357,8
+2020-05-14,Amazonas,Silves,130400,58,3
+2020-05-14,Amazonas,São Gabriel da Cachoeira,130380,219,10
+2020-05-14,Amazonas,São Paulo de Olivença,130390,226,3
+2020-05-14,Amazonas,Tabatinga,130406,425,45
+2020-05-14,Amazonas,Tapauá,130410,134,3
+2020-05-14,Amazonas,Tefé,130420,596,30
+2020-05-14,Amazonas,Tonantins,130423,112,7
+2020-05-14,Amazonas,Urucará,130430,80,2
+2020-05-14,Amazonas,Urucurituba,130440,32,1
+2020-05-14,Bahia,Adustina,290035,1,1
+2020-05-14,Bahia,Araci,290210,1,1
+2020-05-14,Bahia,Belmonte,290340,2,1
+2020-05-14,Bahia,Buerarema,290470,21,3
+2020-05-14,Bahia,Camaçari,290570,73,3
+2020-05-14,Bahia,Capim Grosso,290687,8,3
+2020-05-14,Bahia,Catu,290750,6,1
+2020-05-14,Bahia,Coaraci,290800,20,1
+2020-05-14,Bahia,Feira de Santana,291080,138,2
+2020-05-14,Bahia,Gandu,291120,3,1
+2020-05-14,Bahia,Gongogi,291150,5,2
+2020-05-14,Bahia,Ibirataia,291290,8,1
+2020-05-14,Bahia,Ilhéus,291360,332,17
+2020-05-14,Bahia,Ipiaú,291390,116,2
+2020-05-14,Bahia,Itaberaba,291470,2,1
+2020-05-14,Bahia,Itabuna,291480,421,9
+2020-05-14,Bahia,Itagibá,291520,11,1
+2020-05-14,Bahia,Itapetinga,291640,9,2
+2020-05-14,Bahia,Itapé,291620,2,1
+2020-05-14,Bahia,Itarantim,291680,2,1
+2020-05-14,Bahia,Jacobina,291750,3,1
+2020-05-14,Bahia,Jequié,291800,142,3
+2020-05-14,Bahia,Jitaúna,291830,1,1
+2020-05-14,Bahia,Juazeiro,291840,12,2
+2020-05-14,Bahia,Lauro de Freitas,291920,154,5
+2020-05-14,Bahia,Maragogipe,292060,7,1
+2020-05-14,Bahia,Maraú,292070,2,1
+2020-05-14,Bahia,Muritiba,292230,2,1
+2020-05-14,Bahia,Nilo Peçanha,292260,2,1
+2020-05-14,Bahia,Paramirim,292360,3,1
+2020-05-14,Bahia,Porto Seguro,292530,47,1
+2020-05-14,Bahia,Ribeira do Pombal,292660,6,1
+2020-05-14,Bahia,Salvador,292740,4619,167
+2020-05-14,Bahia,Simões Filho,293070,33,2
+2020-05-14,Bahia,São Francisco do Conde,292920,10,1
+2020-05-14,Bahia,São Sebastião do Passé,292950,8,1
+2020-05-14,Bahia,Ubaitaba,293220,2,1
+2020-05-14,Bahia,Uruçuca,293270,48,5
+2020-05-14,Bahia,Utinga,293280,1,1
+2020-05-14,Bahia,Vera Cruz,293320,6,1
+2020-05-14,Bahia,Vereda,293325,1,1
+2020-05-14,Bahia,Vitória da Conquista,293330,49,4
+2020-05-14,Bahia,Água Fria,290040,1,1
+2020-05-14,Ceará,Acarape,230015,10,1
+2020-05-14,Ceará,Acaraú,230020,148,1
+2020-05-14,Ceará,Acopiara,230030,17,2
+2020-05-14,Ceará,Alcântaras,230050,32,1
+2020-05-14,Ceará,Alto Santo,230070,10,1
+2020-05-14,Ceará,Amontada,230075,13,2
+2020-05-14,Ceará,Apuiarés,230090,11,2
+2020-05-14,Ceará,Aquiraz,230100,120,2
+2020-05-14,Ceará,Aracati,230110,47,3
+2020-05-14,Ceará,Ararendá,230125,2,1
+2020-05-14,Ceará,Aurora,230170,1,1
+2020-05-14,Ceará,Banabuiú,230185,30,1
+2020-05-14,Ceará,Barreira,230195,11,1
+2020-05-14,Ceará,Baturité,230210,32,4
+2020-05-14,Ceará,Beberibe,230220,44,4
+2020-05-14,Ceará,Bela Cruz,230230,74,1
+2020-05-14,Ceará,Boa Viagem,230240,26,3
+2020-05-14,Ceará,Brejo Santo,230250,11,1
+2020-05-14,Ceará,Canindé,230280,150,4
+2020-05-14,Ceará,Capistrano,230290,28,2
+2020-05-14,Ceará,Caridade,230300,10,2
+2020-05-14,Ceará,Caririaçu,230320,8,1
+2020-05-14,Ceará,Cariús,230330,2,1
+2020-05-14,Ceará,Caucaia,230370,787,35
+2020-05-14,Ceará,Chorozinho,230395,38,1
+2020-05-14,Ceará,Crateús,230410,42,2
+2020-05-14,Ceará,Eusébio,230428,354,9
+2020-05-14,Ceará,Farias Brito,230430,11,2
+2020-05-14,Ceará,Fortaleza,230440,13777,1039
+2020-05-14,Ceará,General Sampaio,230460,7,3
+2020-05-14,Ceará,Groaíras,230490,22,1
+2020-05-14,Ceará,Guaiúba,230495,38,1
+2020-05-14,Ceará,Horizonte,230523,132,4
+2020-05-14,Ceará,Ibaretama,230526,5,1
+2020-05-14,Ceará,Ibicuitinga,230533,42,1
+2020-05-14,Ceará,Icapuí,230535,24,2
+2020-05-14,Ceará,Icó,230540,19,1
+2020-05-14,Ceará,Iguatu,230550,73,8
+2020-05-14,Ceará,Independência,230560,9,1
+2020-05-14,Ceará,Ipueiras,230590,7,1
+2020-05-14,Ceará,Iracema,230600,9,1
+2020-05-14,Ceará,Itaitinga,230625,126,14
+2020-05-14,Ceará,Itaiçaba,230620,13,1
+2020-05-14,Ceará,Itapajé,230630,43,1
+2020-05-14,Ceará,Itapipoca,230640,382,21
+2020-05-14,Ceará,Itapiúna,230650,27,1
+2020-05-14,Ceará,Itatira,230660,22,2
+2020-05-14,Ceará,Jaguaretama,230670,12,1
+2020-05-14,Ceará,Jaguaribara,230680,14,1
+2020-05-14,Ceará,Jaguaribe,230690,28,4
+2020-05-14,Ceará,Jaguaruana,230700,12,1
+2020-05-14,Ceará,Juazeiro do Norte,230730,43,7
+2020-05-14,Ceará,Lavras da Mangabeira,230750,7,1
+2020-05-14,Ceará,Limoeiro do Norte,230760,64,3
+2020-05-14,Ceará,Maracanaú,230765,475,50
+2020-05-14,Ceará,Maranguape,230770,166,21
+2020-05-14,Ceará,Massapê,230800,46,4
+2020-05-14,Ceará,Mauriti,230810,7,2
+2020-05-14,Ceará,Milhã,230835,9,1
+2020-05-14,Ceará,Miraíma,230837,3,1
+2020-05-14,Ceará,Mombaça,230850,18,1
+2020-05-14,Ceará,Monsenhor Tabosa,230860,20,3
+2020-05-14,Ceará,Moraújo,230880,12,1
+2020-05-14,Ceará,Nova Russas,230930,5,1
+2020-05-14,Ceará,Novo Oriente,230940,5,1
+2020-05-14,Ceará,Ocara,230945,36,3
+2020-05-14,Ceará,Pacajus,230960,89,3
+2020-05-14,Ceará,Pacatuba,230970,189,15
+2020-05-14,Ceará,Pacoti,230980,17,2
+2020-05-14,Ceará,Palmácia,231010,8,1
+2020-05-14,Ceará,Paracuru,231020,35,1
+2020-05-14,Ceará,Parambu,231030,5,1
+2020-05-14,Ceará,Pedra Branca,231050,30,3
+2020-05-14,Ceará,Pentecoste,231070,19,3
+2020-05-14,Ceará,Pindoretama,231085,60,8
+2020-05-14,Ceará,Quixadá,231130,121,2
+2020-05-14,Ceará,Quixeramobim,231140,112,4
+2020-05-14,Ceará,Quixeré,231150,13,1
+2020-05-14,Ceará,Redenção,231160,45,2
+2020-05-14,Ceará,Reriutaba,231170,10,1
+2020-05-14,Ceará,Russas,231180,63,6
+2020-05-14,Ceará,Salitre,231195,1,1
+2020-05-14,Ceará,Santa Quitéria,231220,17,1
+2020-05-14,Ceará,Santana do Acaraú,231200,16,2
+2020-05-14,Ceará,Sobral,231290,441,15
+2020-05-14,Ceará,Solonópole,231300,14,1
+2020-05-14,Ceará,São Gonçalo do Amarante,231240,183,5
+2020-05-14,Ceará,São Luís do Curu,231260,20,1
+2020-05-14,Ceará,Tabuleiro do Norte,231310,20,1
+2020-05-14,Ceará,Tauá,231330,71,3
+2020-05-14,Ceará,Tianguá,231340,36,2
+2020-05-14,Ceará,Trairi,231350,42,7
+2020-05-14,Ceará,Tururu,231355,22,5
+2020-05-14,Ceará,Ubajara,231360,24,1
+2020-05-14,Ceará,Umirim,231375,17,4
+2020-05-14,Ceará,Varjota,231395,10,1
+2020-05-14,Ceará,Viçosa do Ceará,231410,50,2
+2020-05-14,Distrito Federal,Brasília,530010,3416,51
+2020-05-14,Espírito Santo,Afonso Cláudio,320010,33,5
+2020-05-14,Espírito Santo,Alfredo Chaves,320030,30,1
+2020-05-14,Espírito Santo,Aracruz,320060,51,5
+2020-05-14,Espírito Santo,Baixo Guandu,320080,20,1
+2020-05-14,Espírito Santo,Barra de São Francisco,320090,28,1
+2020-05-14,Espírito Santo,Cariacica,320130,798,34
+2020-05-14,Espírito Santo,Castelo,320140,10,1
+2020-05-14,Espírito Santo,Ecoporanga,320210,7,1
+2020-05-14,Espírito Santo,Fundão,320220,58,7
+2020-05-14,Espírito Santo,Guarapari,320240,92,5
+2020-05-14,Espírito Santo,Iúna,320300,2,1
+2020-05-14,Espírito Santo,Linhares,320320,69,1
+2020-05-14,Espírito Santo,Marataízes,320332,79,3
+2020-05-14,Espírito Santo,Nova Venécia,320390,9,1
+2020-05-14,Espírito Santo,Pinheiros,320410,6,1
+2020-05-14,Espírito Santo,Piúma,320420,22,1
+2020-05-14,Espírito Santo,Presidente Kennedy,320430,67,2
+2020-05-14,Espírito Santo,Santa Maria de Jetibá,320455,33,3
+2020-05-14,Espírito Santo,Santa Teresa,320460,58,1
+2020-05-14,Espírito Santo,Serra,320500,1157,75
+2020-05-14,Espírito Santo,Sooretama,320501,8,1
+2020-05-14,Espírito Santo,São Mateus,320490,81,2
+2020-05-14,Espírito Santo,Viana,320510,128,4
+2020-05-14,Espírito Santo,Vila Velha,320520,1257,42
+2020-05-14,Espírito Santo,Vitória,320530,1036,49
+2020-05-14,Goiás,Anápolis,520110,53,2
+2020-05-14,Goiás,Aparecida de Goiânia,520140,140,6
+2020-05-14,Goiás,Bela Vista de Goiás,520330,13,1
+2020-05-14,Goiás,Campos Belos,520490,9,1
+2020-05-14,Goiás,Colinas do Sul,520552,1,1
+2020-05-14,Goiás,Cristalina,520620,4,1
+2020-05-14,Goiás,Goiandira,520850,3,1
+2020-05-14,Goiás,Goianésia,520860,31,3
+2020-05-14,Goiás,Goiatuba,520910,8,1
+2020-05-14,Goiás,Goiânia,520870,759,30
+2020-05-14,Goiás,Iporá,521020,1,1
+2020-05-14,Goiás,Luziânia,521250,26,3
+2020-05-14,Goiás,Mara Rosa,521280,3,1
+2020-05-14,Goiás,Nerópolis,521450,8,1
+2020-05-14,Goiás,Novo Gama,521523,9,1
+2020-05-14,Goiás,Palminópolis,521590,1,1
+2020-05-14,Goiás,Paraúna,521640,3,1
+2020-05-14,Goiás,Piracanjuba,521710,5,1
+2020-05-14,Goiás,Pires do Rio,521740,6,1
+2020-05-14,Goiás,Planaltina,521760,14,2
+2020-05-14,Goiás,Professor Jamil,521839,6,2
+2020-05-14,Goiás,Rio Verde,521880,24,1
+2020-05-14,Goiás,Valparaíso de Goiás,522185,48,1
+2020-05-14,Goiás,Águas Lindas de Goiás,520025,27,1
+2020-05-14,Maranhão,Altamira do Maranhão,210040,1,1
+2020-05-14,Maranhão,Anajatuba,210070,31,2
+2020-05-14,Maranhão,Arari,210100,31,1
+2020-05-14,Maranhão,Açailândia,210005,100,2
+2020-05-14,Maranhão,Bacabal,210120,87,1
+2020-05-14,Maranhão,Bacabeira,210125,36,1
+2020-05-14,Maranhão,Barra do Corda,210160,87,1
+2020-05-14,Maranhão,Bequimão,210190,19,1
+2020-05-14,Maranhão,Cachoeira Grande,210237,5,2
+2020-05-14,Maranhão,Carutapera,210290,15,4
+2020-05-14,Maranhão,Centro Novo do Maranhão,210317,5,1
+2020-05-14,Maranhão,Conceição do Lago-Açu,210355,20,1
+2020-05-14,Maranhão,Cururupu,210370,15,1
+2020-05-14,Maranhão,Davinópolis,210375,10,2
+2020-05-14,Maranhão,Esperantinópolis,210400,7,1
+2020-05-14,Maranhão,Icatu,210510,1,1
+2020-05-14,Maranhão,Imperatriz,210530,523,35
+2020-05-14,Maranhão,Itapecuru Mirim,210540,33,1
+2020-05-14,Maranhão,Lago da Pedra,210570,52,2
+2020-05-14,Maranhão,Mata Roma,210640,18,1
+2020-05-14,Maranhão,Mirinzal,210680,9,2
+2020-05-14,Maranhão,Monção,210690,19,2
+2020-05-14,Maranhão,Morros,210710,26,1
+2020-05-14,Maranhão,Paço do Lumiar,210750,212,16
+2020-05-14,Maranhão,Pedreiras,210820,100,1
+2020-05-14,Maranhão,Pinheiro,210860,131,3
+2020-05-14,Maranhão,Presidente Sarney,210927,8,1
+2020-05-14,Maranhão,Raposa,210945,29,3
+2020-05-14,Maranhão,Rosário,210960,30,2
+2020-05-14,Maranhão,Santa Inês,210990,132,1
+2020-05-14,Maranhão,Senador La Rocque,211176,14,1
+2020-05-14,Maranhão,São Benedito do Rio Preto,211040,10,1
+2020-05-14,Maranhão,São José de Ribamar,211120,426,18
+2020-05-14,Maranhão,São João Batista,211100,9,2
+2020-05-14,Maranhão,São Luís,211130,5040,346
+2020-05-14,Maranhão,Trizidela do Vale,211223,29,1
+2020-05-14,Maranhão,Tutóia,211250,43,3
+2020-05-14,Maranhão,Zé Doca,211400,54,1
+2020-05-14,Mato Grosso,Aripuanã,510140,3,1
+2020-05-14,Mato Grosso,Barra do Garças,510180,41,3
+2020-05-14,Mato Grosso,Cuiabá,510340,235,2
+2020-05-14,Mato Grosso,Cáceres,510250,18,2
+2020-05-14,Mato Grosso,Lucas do Rio Verde,510525,30,2
+2020-05-14,Mato Grosso,Mirassol d'Oeste,510562,8,1
+2020-05-14,Mato Grosso,Nova Mutum,510622,13,1
+2020-05-14,Mato Grosso,Ponte Branca,510670,1,1
+2020-05-14,Mato Grosso,Querência,510706,7,1
+2020-05-14,Mato Grosso,Rondonópolis,510760,66,2
+2020-05-14,Mato Grosso,Sinop,510790,26,2
+2020-05-14,Mato Grosso,Vale de São Domingos,510835,2,1
+2020-05-14,Mato Grosso,Várzea Grande,510840,66,3
+2020-05-14,Mato Grosso do Sul,Batayporã,500200,6,2
+2020-05-14,Mato Grosso do Sul,Brasilândia,500230,15,1
+2020-05-14,Mato Grosso do Sul,Campo Grande,500270,167,5
+2020-05-14,Mato Grosso do Sul,Dourados,500370,24,1
+2020-05-14,Mato Grosso do Sul,Paranaíba,500630,3,1
+2020-05-14,Mato Grosso do Sul,Três Lagoas,500830,77,3
+2020-05-14,Mato Grosso do Sul,Vicentina,500840,2,1
+2020-05-14,Minas Gerais,Alfredo Vasconcelos,310163,1,1
+2020-05-14,Minas Gerais,Araguari,310350,13,1
+2020-05-14,Minas Gerais,Araxá,310400,10,1
+2020-05-14,Minas Gerais,Barbacena,310560,19,2
+2020-05-14,Minas Gerais,Belmiro Braga,310610,3,1
+2020-05-14,Minas Gerais,Belo Horizonte,310620,1068,28
+2020-05-14,Minas Gerais,Belo Vale,310640,1,1
+2020-05-14,Minas Gerais,Betim,310670,37,3
+2020-05-14,Minas Gerais,Boa Esperança,310710,12,1
+2020-05-14,Minas Gerais,Bonfim,310810,1,1
+2020-05-14,Minas Gerais,Bueno Brandão,310910,1,1
+2020-05-14,Minas Gerais,Capitólio,311280,1,1
+2020-05-14,Minas Gerais,Carmo do Cajuru,311420,6,1
+2020-05-14,Minas Gerais,Cataguases,311530,8,1
+2020-05-14,Minas Gerais,Caxambu,311550,2,1
+2020-05-14,Minas Gerais,Centralina,311580,1,1
+2020-05-14,Minas Gerais,Contagem,311860,91,3
+2020-05-14,Minas Gerais,Divinópolis,312230,116,1
+2020-05-14,Minas Gerais,Espinosa,312430,1,1
+2020-05-14,Minas Gerais,Extrema,312510,56,3
+2020-05-14,Minas Gerais,Governador Valadares,312770,53,4
+2020-05-14,Minas Gerais,Ipiaçu,313140,1,1
+2020-05-14,Minas Gerais,Itabira,313170,12,1
+2020-05-14,Minas Gerais,Itajubá,313240,14,1
+2020-05-14,Minas Gerais,Itambacuri,313270,1,1
+2020-05-14,Minas Gerais,Itapeva,313360,5,1
+2020-05-14,Minas Gerais,Jacutinga,313490,1,1
+2020-05-14,Minas Gerais,Jequitinhonha,313580,2,1
+2020-05-14,Minas Gerais,Juiz de Fora,313670,396,15
+2020-05-14,Minas Gerais,Manhuaçu,313940,6,1
+2020-05-14,Minas Gerais,Mariana,314000,32,2
+2020-05-14,Minas Gerais,Martinho Campos,314050,1,1
+2020-05-14,Minas Gerais,Montes Claros,314330,32,2
+2020-05-14,Minas Gerais,Morro da Garça,314360,1,1
+2020-05-14,Minas Gerais,Muriaé,314390,47,1
+2020-05-14,Minas Gerais,Mário Campos,314015,17,1
+2020-05-14,Minas Gerais,Nanuque,314430,3,1
+2020-05-14,Minas Gerais,Nova Serrana,314520,8,1
+2020-05-14,Minas Gerais,Novo Cruzeiro,314530,2,1
+2020-05-14,Minas Gerais,Ouro Fino,314600,5,1
+2020-05-14,Minas Gerais,Paracatu,314700,19,1
+2020-05-14,Minas Gerais,Paraisópolis,314730,5,2
+2020-05-14,Minas Gerais,Patos de Minas,314800,23,1
+2020-05-14,Minas Gerais,Patrocínio,314810,20,1
+2020-05-14,Minas Gerais,Perdizes,314980,1,1
+2020-05-14,Minas Gerais,Piumhi,315150,2,1
+2020-05-14,Minas Gerais,Planura,315160,3,1
+2020-05-14,Minas Gerais,Pouso Alegre,315250,68,3
+2020-05-14,Minas Gerais,Poços de Caldas,315180,27,3
+2020-05-14,Minas Gerais,Presidente Juscelino,315320,1,1
+2020-05-14,Minas Gerais,Santa Luzia,315780,25,1
+2020-05-14,Minas Gerais,Santos Dumont,316070,20,1
+2020-05-14,Minas Gerais,Sete Lagoas,316720,11,1
+2020-05-14,Minas Gerais,São Francisco,316110,25,2
+2020-05-14,Minas Gerais,São Geraldo da Piedade,316160,1,1
+2020-05-14,Minas Gerais,São José da Lapa,316295,3,1
+2020-05-14,Minas Gerais,São João Nepomuceno,316290,2,1
+2020-05-14,Minas Gerais,São Romão,316420,3,1
+2020-05-14,Minas Gerais,São Sebastião do Paraíso,316470,6,1
+2020-05-14,Minas Gerais,São Tomás de Aquino,316510,2,1
+2020-05-14,Minas Gerais,Teófilo Otoni,316860,47,1
+2020-05-14,Minas Gerais,Toledo,316910,7,1
+2020-05-14,Minas Gerais,Três Pontas,316940,11,1
+2020-05-14,Minas Gerais,Uberaba,317010,82,4
+2020-05-14,Minas Gerais,Uberlândia,317020,342,11
+2020-05-14,Minas Gerais,Varginha,317070,38,1
+2020-05-14,Minas Gerais,Varzelândia,317090,1,1
+2020-05-14,Paraná,Ampére,410100,5,1
+2020-05-14,Paraná,Apucarana,410140,27,2
+2020-05-14,Paraná,Arapongas,410150,18,1
+2020-05-14,Paraná,Araruna,410170,16,1
+2020-05-14,Paraná,Bandeirantes,410240,3,1
+2020-05-14,Paraná,Cambé,410370,12,1
+2020-05-14,Paraná,Campina Grande do Sul,410400,13,3
+2020-05-14,Paraná,Campina da Lagoa,410390,1,1
+2020-05-14,Paraná,Campo Largo,410420,26,2
+2020-05-14,Paraná,Campo Mourão,410430,46,4
+2020-05-14,Paraná,Cascavel,410480,108,5
+2020-05-14,Paraná,Cianorte,410550,25,1
+2020-05-14,Paraná,Curitiba,410690,582,31
+2020-05-14,Paraná,Fazenda Rio Grande,410765,28,3
+2020-05-14,Paraná,Foz do Iguaçu,410830,71,2
+2020-05-14,Paraná,Guairaçá,410890,6,1
+2020-05-14,Paraná,Guaraqueçaba,410950,1,1
+2020-05-14,Paraná,Guaíra,410880,14,3
+2020-05-14,Paraná,Iretama,411080,3,1
+2020-05-14,Paraná,Ivaiporã,411150,7,2
+2020-05-14,Paraná,Jussara,411300,1,1
+2020-05-14,Paraná,Londrina,411370,125,15
+2020-05-14,Paraná,Manoel Ribas,411450,1,1
+2020-05-14,Paraná,Maringá,411520,78,6
+2020-05-14,Paraná,Mirador,411590,6,1
+2020-05-14,Paraná,Paranaguá,411820,25,2
+2020-05-14,Paraná,Paranavaí,411840,64,4
+2020-05-14,Paraná,Pato Branco,411850,18,1
+2020-05-14,Paraná,Pinhais,411915,37,2
+2020-05-14,Paraná,Primeiro de Maio,412050,2,1
+2020-05-14,Paraná,Quatiguá,412070,2,1
+2020-05-14,Paraná,Ribeirão do Pinhal,412190,9,1
+2020-05-14,Paraná,Santa Fé,412340,7,1
+2020-05-14,Paraná,Santa Isabel do Ivaí,412370,12,1
+2020-05-14,Paraná,Santa Mônica,412395,8,1
+2020-05-14,Paraná,Santo Antônio do Caiuá,412420,20,1
+2020-05-14,Paraná,Siqueira Campos,412660,1,1
+2020-05-14,Paraná,São José dos Pinhais,412550,46,3
+2020-05-14,Paraná,São João do Caiuá,412490,32,1
+2020-05-14,Paraná,São João do Ivaí,412500,6,1
+2020-05-14,Paraná,Tamboara,412670,10,1
+2020-05-14,Paraná,Terra Boa,412720,2,1
+2020-05-14,Paraná,Umuarama,412810,13,1
+2020-05-14,Paraná,Uraí,412840,2,1
+2020-05-14,Paraná,Verê,412860,3,1
+2020-05-14,Paraíba,Alhandra,250060,50,3
+2020-05-14,Paraíba,Bayeux,250180,76,8
+2020-05-14,Paraíba,Boqueirão,250250,2,1
+2020-05-14,Paraíba,Brejo do Cruz,250280,1,1
+2020-05-14,Paraíba,Caaporã,250300,85,1
+2020-05-14,Paraíba,Cabedelo,250320,164,6
+2020-05-14,Paraíba,Cajazeiras,250370,27,1
+2020-05-14,Paraíba,Campina Grande,250400,160,4
+2020-05-14,Paraíba,Conde,250460,26,1
+2020-05-14,Paraíba,Congo,250470,10,1
+2020-05-14,Paraíba,Cruz do Espírito Santo,250490,25,2
+2020-05-14,Paraíba,Itapororoca,250710,12,1
+2020-05-14,Paraíba,João Pessoa,250750,1451,64
+2020-05-14,Paraíba,Junco do Seridó,250780,3,1
+2020-05-14,Paraíba,Lagoa Seca,250830,8,1
+2020-05-14,Paraíba,Mari,250910,42,2
+2020-05-14,Paraíba,Marizópolis,250915,4,1
+2020-05-14,Paraíba,Mogeiro,250940,1,1
+2020-05-14,Paraíba,Patos,251080,174,9
+2020-05-14,Paraíba,Pedras de Fogo,251120,38,1
+2020-05-14,Paraíba,Piancó,251130,5,1
+2020-05-14,Paraíba,Riachão do Poço,251276,1,1
+2020-05-14,Paraíba,Santa Rita,251370,271,36
+2020-05-14,Paraíba,Sapé,251530,97,4
+2020-05-14,Paraíba,Sobrado,251597,3,1
+2020-05-14,Paraíba,Sousa,251620,53,1
+2020-05-14,Paraíba,São Bento,251390,10,2
+2020-05-14,Paraíba,São José de Piranhas,251450,2,1
+2020-05-14,Paraíba,São Sebastião de Lagoa de Roça,251510,7,1
+2020-05-14,Paraíba,Taperoá,251650,19,1
+2020-05-14,Paraíba,Umbuzeiro,251700,7,1
+2020-05-14,Pará,Abaetetuba,150010,288,9
+2020-05-14,Pará,Abel Figueiredo,150013,3,1
+2020-05-14,Pará,Acará,150020,13,2
+2020-05-14,Pará,Almeirim,150050,16,1
+2020-05-14,Pará,Altamira,150060,135,2
+2020-05-14,Pará,Ananindeua,150080,1025,98
+2020-05-14,Pará,Augusto Corrêa,150090,39,2
+2020-05-14,Pará,Bagre,150110,9,2
+2020-05-14,Pará,Baião,150120,31,2
+2020-05-14,Pará,Bannach,150125,9,1
+2020-05-14,Pará,Barcarena,150130,74,8
+2020-05-14,Pará,Belém,150140,4803,573
+2020-05-14,Pará,Benevides,150150,64,9
+2020-05-14,Pará,Bragança,150170,187,15
+2020-05-14,Pará,Breves,150180,304,39
+2020-05-14,Pará,Bujaru,150190,53,6
+2020-05-14,Pará,Cachoeira do Arari,150200,19,4
+2020-05-14,Pará,Cametá,150210,328,19
+2020-05-14,Pará,Canaã dos Carajás,150215,55,2
+2020-05-14,Pará,Capanema,150220,107,7
+2020-05-14,Pará,Capitão Poço,150230,51,3
+2020-05-14,Pará,Castanhal,150240,253,34
+2020-05-14,Pará,Colares,150260,6,1
+2020-05-14,Pará,Curionópolis,150277,16,2
+2020-05-14,Pará,Curralinho,150280,27,2
+2020-05-14,Pará,Curuçá,150290,50,10
+2020-05-14,Pará,Dom Eliseu,150293,29,1
+2020-05-14,Pará,Garrafão do Norte,150307,30,1
+2020-05-14,Pará,Gurupá,150310,6,1
+2020-05-14,Pará,Igarapé-Açu,150320,37,5
+2020-05-14,Pará,Igarapé-Miri,150330,46,3
+2020-05-14,Pará,Irituia,150350,14,1
+2020-05-14,Pará,Itaituba,150360,24,1
+2020-05-14,Pará,Jacareacanga,150375,2,1
+2020-05-14,Pará,Juruti,150390,18,2
+2020-05-14,Pará,Limoeiro do Ajuru,150400,21,2
+2020-05-14,Pará,Magalhães Barata,150410,4,1
+2020-05-14,Pará,Marabá,150420,174,24
+2020-05-14,Pará,Maracanã,150430,33,1
+2020-05-14,Pará,Marapanim,150440,26,2
+2020-05-14,Pará,Marituba,150442,113,13
+2020-05-14,Pará,Medicilândia,150445,6,1
+2020-05-14,Pará,Melgaço,150450,36,1
+2020-05-14,Pará,Moju,150470,120,10
+2020-05-14,Pará,Nova Esperança do Piriá,150495,43,2
+2020-05-14,Pará,Oeiras do Pará,150520,48,6
+2020-05-14,Pará,Oriximiná,150530,6,2
+2020-05-14,Pará,Pacajá,150548,12,2
+2020-05-14,Pará,Paragominas,150550,113,3
+2020-05-14,Pará,Parauapebas,150553,157,23
+2020-05-14,Pará,Ponta de Pedras,150570,56,4
+2020-05-14,Pará,Portel,150580,38,4
+2020-05-14,Pará,Porto de Moz,150590,23,4
+2020-05-14,Pará,Rondon do Pará,150618,18,2
+2020-05-14,Pará,Salinópolis,150620,54,8
+2020-05-14,Pará,Salvaterra,150630,18,1
+2020-05-14,Pará,Santa Bárbara do Pará,150635,32,2
+2020-05-14,Pará,Santa Cruz do Arari,150640,13,2
+2020-05-14,Pará,Santa Izabel do Pará,150650,108,7
+2020-05-14,Pará,Santarém,150680,218,17
+2020-05-14,Pará,Santarém Novo,150690,2,1
+2020-05-14,Pará,Santo Antônio do Tauá,150700,108,8
+2020-05-14,Pará,São Caetano de Odivelas,150710,32,6
+2020-05-14,Pará,São Francisco do Pará,150740,2,1
+2020-05-14,Pará,São João de Pirabas,150747,9,2
+2020-05-14,Pará,São João do Araguaia,150750,3,1
+2020-05-14,Pará,São Miguel do Guamá,150760,64,2
+2020-05-14,Pará,São Sebastião da Boa Vista,150770,28,1
+2020-05-14,Pará,Terra Alta,150796,26,2
+2020-05-14,Pará,Tomé-Açu,150800,30,4
+2020-05-14,Pará,Tucumã,150808,20,1
+2020-05-14,Pará,Tucuruí,150810,69,7
+2020-05-14,Pará,Vigia,150820,78,4
+2020-05-14,Pará,Viseu,150830,9,1
+2020-05-14,Pará,Vitória do Xingu,150835,20,4
+2020-05-14,Pará,Xinguara,150840,18,2
+2020-05-14,Pará,Óbidos,150510,5,1
+2020-05-14,Pernambuco,Abreu e Lima,260005,162,14
+2020-05-14,Pernambuco,Agrestina,260030,5,3
+2020-05-14,Pernambuco,Aliança,260070,25,9
+2020-05-14,Pernambuco,Amaraji,260090,17,4
+2020-05-14,Pernambuco,Araçoiaba,260105,11,2
+2020-05-14,Pernambuco,Arcoverde,260120,34,7
+2020-05-14,Pernambuco,Barra de Guabiraba,260130,4,1
+2020-05-14,Pernambuco,Barreiros,260140,15,2
+2020-05-14,Pernambuco,Belo Jardim,260170,14,1
+2020-05-14,Pernambuco,Betânia,260180,4,1
+2020-05-14,Pernambuco,Bezerros,260190,17,1
+2020-05-14,Pernambuco,Bom Conselho,260210,6,1
+2020-05-14,Pernambuco,Bom Jardim,260220,18,7
+2020-05-14,Pernambuco,Bonito,260230,10,3
+2020-05-14,Pernambuco,Buenos Aires,260270,3,1
+2020-05-14,Pernambuco,Cabo de Santo Agostinho,260290,279,45
+2020-05-14,Pernambuco,Camaragibe,260345,477,32
+2020-05-14,Pernambuco,Camutanga,260360,3,1
+2020-05-14,Pernambuco,Capoeiras,260380,3,1
+2020-05-14,Pernambuco,Carnaubeira da Penha,260392,2,1
+2020-05-14,Pernambuco,Carnaíba,260390,5,4
+2020-05-14,Pernambuco,Carpina,260400,33,8
+2020-05-14,Pernambuco,Caruaru,260410,96,11
+2020-05-14,Pernambuco,Catende,260420,13,4
+2020-05-14,Pernambuco,Chã Grande,260450,37,3
+2020-05-14,Pernambuco,Chã de Alegria,260440,25,1
+2020-05-14,Pernambuco,Condado,260460,21,2
+2020-05-14,Pernambuco,Correntes,260470,2,1
+2020-05-14,Pernambuco,Cortês,260480,11,1
+2020-05-14,Pernambuco,Cupira,260500,5,1
+2020-05-14,Pernambuco,Custódia,260510,17,2
+2020-05-14,Pernambuco,Escada,260520,42,5
+2020-05-14,Pernambuco,Feira Nova,260540,17,5
+2020-05-14,Pernambuco,Ferreiros,260550,15,4
+2020-05-14,Pernambuco,Floresta,260570,4,2
+2020-05-14,Pernambuco,Frei Miguelinho,260580,17,3
+2020-05-14,Pernambuco,Gameleira,260590,8,2
+2020-05-14,Pernambuco,Garanhuns,260600,47,4
+2020-05-14,Pernambuco,Glória do Goitá,260610,30,10
+2020-05-14,Pernambuco,Goiana,260620,93,11
+2020-05-14,Pernambuco,Gravatá,260640,33,4
+2020-05-14,Pernambuco,Ibimirim,260660,10,4
+2020-05-14,Pernambuco,Igarassu,260680,155,22
+2020-05-14,Pernambuco,Ipojuca,260720,92,10
+2020-05-14,Pernambuco,Ipubi,260730,10,1
+2020-05-14,Pernambuco,Itambé,260765,11,1
+2020-05-14,Pernambuco,Itapetim,260770,3,1
+2020-05-14,Pernambuco,Itapissuma,260775,30,6
+2020-05-14,Pernambuco,Itaquitinga,260780,11,4
+2020-05-14,Pernambuco,Jaboatão dos Guararapes,260790,1487,149
+2020-05-14,Pernambuco,Jaqueira,260795,11,2
+2020-05-14,Pernambuco,Jataúba,260800,9,1
+2020-05-14,Pernambuco,Joaquim Nabuco,260820,3,1
+2020-05-14,Pernambuco,João Alfredo,260810,17,3
+2020-05-14,Pernambuco,Jupi,260830,2,1
+2020-05-14,Pernambuco,Lagoa de Itaenga,260850,8,3
+2020-05-14,Pernambuco,Lagoa do Carro,260845,22,2
+2020-05-14,Pernambuco,Lagoa dos Gatos,260870,3,2
+2020-05-14,Pernambuco,Lajedo,260880,5,1
+2020-05-14,Pernambuco,Limoeiro,260890,33,8
+2020-05-14,Pernambuco,Macaparana,260900,9,2
+2020-05-14,Pernambuco,Machados,260910,8,1
+2020-05-14,Pernambuco,Maraial,260920,1,1
+2020-05-14,Pernambuco,Moreno,260940,77,7
+2020-05-14,Pernambuco,Nazaré da Mata,260950,23,3
+2020-05-14,Pernambuco,Olinda,260960,1384,97
+2020-05-14,Pernambuco,Ouricuri,260990,9,1
+2020-05-14,Pernambuco,Palmares,261000,32,6
+2020-05-14,Pernambuco,Panelas,261020,6,1
+2020-05-14,Pernambuco,Passira,261050,26,1
+2020-05-14,Pernambuco,Paudalho,261060,70,12
+2020-05-14,Pernambuco,Paulista,261070,983,65
+2020-05-14,Pernambuco,Petrolina,261110,71,3
+2020-05-14,Pernambuco,Pombos,261130,78,6
+2020-05-14,Pernambuco,Quixaba,261153,4,2
+2020-05-14,Pernambuco,Recife,261160,8096,507
+2020-05-14,Pernambuco,Ribeirão,261180,21,6
+2020-05-14,Pernambuco,Rio Formoso,261190,12,3
+2020-05-14,Pernambuco,Sairé,261200,1,1
+2020-05-14,Pernambuco,Salgueiro,261220,33,4
+2020-05-14,Pernambuco,Saloá,261230,1,1
+2020-05-14,Pernambuco,Serra Talhada,261390,23,2
+2020-05-14,Pernambuco,Serrita,261400,2,1
+2020-05-14,Pernambuco,Sertânia,261410,12,2
+2020-05-14,Pernambuco,Sirinhaém,261420,22,2
+2020-05-14,Pernambuco,Surubim,261450,12,3
+2020-05-14,Pernambuco,São Bento do Una,261300,17,1
+2020-05-14,Pernambuco,São Joaquim do Monte,261330,8,1
+2020-05-14,Pernambuco,São José da Coroa Grande,261340,22,2
+2020-05-14,Pernambuco,São Lourenço da Mata,261370,278,37
+2020-05-14,Pernambuco,Tabira,261460,4,2
+2020-05-14,Pernambuco,Tamandaré,261485,14,1
+2020-05-14,Pernambuco,Taquaritinga do Norte,261500,2,2
+2020-05-14,Pernambuco,Terra Nova,261520,1,1
+2020-05-14,Pernambuco,Timbaúba,261530,29,12
+2020-05-14,Pernambuco,Tracunhaém,261550,3,1
+2020-05-14,Pernambuco,Trindade,261560,12,3
+2020-05-14,Pernambuco,Triunfo,261570,6,1
+2020-05-14,Pernambuco,Venturosa,261600,4,1
+2020-05-14,Pernambuco,Vicência,261630,14,1
+2020-05-14,Pernambuco,Vitória de Santo Antão,261640,205,33
+2020-05-14,Pernambuco,Xexéu,261650,4,1
+2020-05-14,Pernambuco,Água Preta,260040,27,6
+2020-05-14,Piauí,Baixa Grande do Ribeiro,220115,6,1
+2020-05-14,Piauí,Bom Princípio do Piauí,220191,1,1
+2020-05-14,Piauí,Buriti dos Lopes,220200,2,1
+2020-05-14,Piauí,Canto do Buriti,220230,2,1
+2020-05-14,Piauí,Cocal,220270,3,1
+2020-05-14,Piauí,Colônia do Gurguéia,220275,3,1
+2020-05-14,Piauí,Elesbão Veloso,220350,4,1
+2020-05-14,Piauí,Ilha Grande,220465,1,1
+2020-05-14,Piauí,Itaueira,220510,1,1
+2020-05-14,Piauí,Júlio Borges,220552,3,2
+2020-05-14,Piauí,Luzilândia,220580,2,1
+2020-05-14,Piauí,Manoel Emídio,220590,1,1
+2020-05-14,Piauí,Monsenhor Hipólito,220650,3,1
+2020-05-14,Piauí,Parnaíba,220770,96,4
+2020-05-14,Piauí,Pedro II,220790,9,1
+2020-05-14,Piauí,Picos,220800,82,3
+2020-05-14,Piauí,Piracuruca,220830,10,2
+2020-05-14,Piauí,Piripiri,220840,30,1
+2020-05-14,Piauí,Rio Grande do Piauí,220900,4,1
+2020-05-14,Piauí,Santa Luz,220930,1,1
+2020-05-14,Piauí,Socorro do Piauí,221090,1,1
+2020-05-14,Piauí,São Francisco do Piauí,220970,1,1
+2020-05-14,Piauí,São José do Divino,221005,3,1
+2020-05-14,Piauí,Teresina,221100,1033,26
+2020-05-14,Piauí,Uruçuí,221120,26,1
+2020-05-14,Piauí,Valença do Piauí,221130,1,1
+2020-05-14,Piauí,Água Branca,220020,28,2
+2020-05-14,Rio Grande do Norte,Alexandria,240050,5,1
+2020-05-14,Rio Grande do Norte,Alto do Rodrigues,240070,10,1
+2020-05-14,Rio Grande do Norte,Apodi,240100,79,2
+2020-05-14,Rio Grande do Norte,Areia Branca,240110,58,6
+2020-05-14,Rio Grande do Norte,Açu,240020,64,4
+2020-05-14,Rio Grande do Norte,Baraúna,240145,14,1
+2020-05-14,Rio Grande do Norte,Canguaretama,240220,37,7
+2020-05-14,Rio Grande do Norte,Carnaúba dos Dantas,240240,1,1
+2020-05-14,Rio Grande do Norte,Ceará-Mirim,240260,16,2
+2020-05-14,Rio Grande do Norte,Cerro Corá,240270,1,1
+2020-05-14,Rio Grande do Norte,Encanto,240330,11,2
+2020-05-14,Rio Grande do Norte,Grossos,240440,6,1
+2020-05-14,Rio Grande do Norte,Ipanguaçu,240470,17,3
+2020-05-14,Rio Grande do Norte,Lagoa de Pedras,240630,1,1
+2020-05-14,Rio Grande do Norte,Macaíba,240710,32,3
+2020-05-14,Rio Grande do Norte,Montanhas,240770,2,1
+2020-05-14,Rio Grande do Norte,Mossoró,240800,456,23
+2020-05-14,Rio Grande do Norte,Natal,240810,1083,33
+2020-05-14,Rio Grande do Norte,Nísia Floresta,240820,9,1
+2020-05-14,Rio Grande do Norte,Parnamirim,240325,209,6
+2020-05-14,Rio Grande do Norte,Pendências,240990,6,1
+2020-05-14,Rio Grande do Norte,Serra Negra do Norte,241340,3,2
+2020-05-14,Rio Grande do Norte,São José de Mipibu,241220,30,1
+2020-05-14,Rio Grande do Norte,São Rafael,241280,9,1
+2020-05-14,Rio Grande do Norte,São Tomé,241290,4,1
+2020-05-14,Rio Grande do Norte,Taboleiro Grande,241380,4,1
+2020-05-14,Rio Grande do Norte,Taipu,241390,1,1
+2020-05-14,Rio Grande do Norte,Tenente Ananias,241410,7,2
+2020-05-14,Rio Grande do Norte,Touros,241440,7,1
+2020-05-14,Rio Grande do Sul,Alvorada,430060,20,2
+2020-05-14,Rio Grande do Sul,Arroio do Sal,430105,4,1
+2020-05-14,Rio Grande do Sul,Arroio dos Ratos,430110,4,1
+2020-05-14,Rio Grande do Sul,Bento Gonçalves,430210,139,5
+2020-05-14,Rio Grande do Sul,Boa Vista do Sul,430225,7,1
+2020-05-14,Rio Grande do Sul,Canoas,430460,43,2
+2020-05-14,Rio Grande do Sul,Carlos Barbosa,430480,35,1
+2020-05-14,Rio Grande do Sul,Caxias do Sul,430510,70,2
+2020-05-14,Rio Grande do Sul,Cerro Grande do Sul,430517,1,1
+2020-05-14,Rio Grande do Sul,Cidreira,430545,2,1
+2020-05-14,Rio Grande do Sul,Dom Pedrito,430660,5,1
+2020-05-14,Rio Grande do Sul,Doutor Maurício Cardoso,430673,1,1
+2020-05-14,Rio Grande do Sul,Eldorado do Sul,430676,3,1
+2020-05-14,Rio Grande do Sul,Encruzilhada do Sul,430690,3,1
+2020-05-14,Rio Grande do Sul,Erechim,430700,17,1
+2020-05-14,Rio Grande do Sul,Esperança do Sul,430745,3,1
+2020-05-14,Rio Grande do Sul,Estrela,430780,39,1
+2020-05-14,Rio Grande do Sul,Farroupilha,430790,32,4
+2020-05-14,Rio Grande do Sul,Frederico Westphalen,430850,2,1
+2020-05-14,Rio Grande do Sul,Garibaldi,430860,53,3
+2020-05-14,Rio Grande do Sul,Gravataí,430920,30,1
+2020-05-14,Rio Grande do Sul,Ibirapuitã,430995,16,1
+2020-05-14,Rio Grande do Sul,Ivoti,431080,7,1
+2020-05-14,Rio Grande do Sul,Lajeado,431140,209,10
+2020-05-14,Rio Grande do Sul,Marau,431180,132,3
+2020-05-14,Rio Grande do Sul,Mato Castelhano,431213,1,1
+2020-05-14,Rio Grande do Sul,Monte Belo do Sul,431238,1,1
+2020-05-14,Rio Grande do Sul,Nonoai,431270,6,1
+2020-05-14,Rio Grande do Sul,Novo Hamburgo,431340,55,2
+2020-05-14,Rio Grande do Sul,Passo Fundo,431410,277,20
+2020-05-14,Rio Grande do Sul,Porto Alegre,431490,564,21
+2020-05-14,Rio Grande do Sul,Quaraí,431530,8,2
+2020-05-14,Rio Grande do Sul,Rio Grande,431560,9,1
+2020-05-14,Rio Grande do Sul,Roca Sales,431580,6,1
+2020-05-14,Rio Grande do Sul,Saldanha Marinho,431643,22,1
+2020-05-14,Rio Grande do Sul,Santa Cruz do Sul,431680,23,1
+2020-05-14,Rio Grande do Sul,Santa Rosa,431720,9,1
+2020-05-14,Rio Grande do Sul,Santa Tereza,431725,3,1
+2020-05-14,Rio Grande do Sul,Santo Ângelo,431750,9,1
+2020-05-14,Rio Grande do Sul,Sapucaia do Sul,432000,28,1
+2020-05-14,Rio Grande do Sul,Serafina Corrêa,432040,38,1
+2020-05-14,Rio Grande do Sul,São Leopoldo,431870,107,1
+2020-05-14,Rio Grande do Sul,Tio Hugo,432146,3,1
+2020-05-14,Rio Grande do Sul,Torres,432150,25,1
+2020-05-14,Rio Grande do Sul,Tramandaí,432160,7,1
+2020-05-14,Rio Grande do Sul,Tunas,432215,4,1
+2020-05-14,Rio Grande do Sul,Vacaria,432250,7,2
+2020-05-14,Rio Grande do Sul,Venâncio Aires,432260,49,4
+2020-05-14,Rio Grande do Sul,Viamão,432300,30,1
+2020-05-14,Rio Grande do Sul,Vila Lângaro,432335,1,1
+2020-05-14,Rio Grande do Sul,Vila Maria,432340,5,1
+2020-05-14,Rio Grande do Sul,Vista Alegre do Prata,432360,1,1
+2020-05-14,Rio de Janeiro,Angra dos Reis,330010,136,12
+2020-05-14,Rio de Janeiro,Araruama,330020,69,2
+2020-05-14,Rio de Janeiro,Arraial do Cabo,330025,21,2
+2020-05-14,Rio de Janeiro,Barra Mansa,330040,82,1
+2020-05-14,Rio de Janeiro,Barra do Piraí,330030,46,5
+2020-05-14,Rio de Janeiro,Belford Roxo,330045,365,44
+2020-05-14,Rio de Janeiro,Bom Jesus do Itabapoana,330060,26,1
+2020-05-14,Rio de Janeiro,Cabo Frio,330070,133,5
+2020-05-14,Rio de Janeiro,Cachoeiras de Macacu,330080,42,5
+2020-05-14,Rio de Janeiro,Campos dos Goytacazes,330100,165,5
+2020-05-14,Rio de Janeiro,Carapebus,330093,8,1
+2020-05-14,Rio de Janeiro,Casimiro de Abreu,330130,36,2
+2020-05-14,Rio de Janeiro,Duque de Caxias,330170,909,136
+2020-05-14,Rio de Janeiro,Guapimirim,330185,24,4
+2020-05-14,Rio de Janeiro,Iguaba Grande,330187,36,6
+2020-05-14,Rio de Janeiro,Itaboraí,330190,347,29
+2020-05-14,Rio de Janeiro,Itaguaí,330200,96,16
+2020-05-14,Rio de Janeiro,Itaocara,330210,12,2
+2020-05-14,Rio de Janeiro,Japeri,330227,69,3
+2020-05-14,Rio de Janeiro,Macaé,330240,112,16
+2020-05-14,Rio de Janeiro,Magé,330250,234,20
+2020-05-14,Rio de Janeiro,Mangaratiba,330260,24,2
+2020-05-14,Rio de Janeiro,Maricá,330270,158,15
+2020-05-14,Rio de Janeiro,Mendes,330280,14,1
+2020-05-14,Rio de Janeiro,Mesquita,330285,321,25
+2020-05-14,Rio de Janeiro,Miguel Pereira,330290,12,1
+2020-05-14,Rio de Janeiro,Nilópolis,330320,184,17
+2020-05-14,Rio de Janeiro,Niterói,330330,779,45
+2020-05-14,Rio de Janeiro,Nova Friburgo,330340,99,9
+2020-05-14,Rio de Janeiro,Nova Iguaçu,330350,750,84
+2020-05-14,Rio de Janeiro,Paracambi,330360,69,7
+2020-05-14,Rio de Janeiro,Paraty,330380,55,2
+2020-05-14,Rio de Janeiro,Paraíba do Sul,330370,23,1
+2020-05-14,Rio de Janeiro,Petrópolis,330390,206,23
+2020-05-14,Rio de Janeiro,Piraí,330400,14,1
+2020-05-14,Rio de Janeiro,Queimados,330414,123,6
+2020-05-14,Rio de Janeiro,Resende,330420,74,5
+2020-05-14,Rio de Janeiro,Rio Bonito,330430,45,4
+2020-05-14,Rio de Janeiro,Rio das Ostras,330452,71,8
+2020-05-14,Rio de Janeiro,Rio de Janeiro,330455,11264,1509
+2020-05-14,Rio de Janeiro,Santo Antônio de Pádua,330470,8,1
+2020-05-14,Rio de Janeiro,Sapucaia,330540,25,4
+2020-05-14,Rio de Janeiro,Saquarema,330550,63,6
+2020-05-14,Rio de Janeiro,Seropédica,330555,27,2
+2020-05-14,Rio de Janeiro,Silva Jardim,330560,17,3
+2020-05-14,Rio de Janeiro,São Francisco de Itabapoana,330475,13,1
+2020-05-14,Rio de Janeiro,São Gonçalo,330490,614,56
+2020-05-14,Rio de Janeiro,São João da Barra,330500,21,2
+2020-05-14,Rio de Janeiro,São João de Meriti,330510,463,43
+2020-05-14,Rio de Janeiro,São Pedro da Aldeia,330520,48,4
+2020-05-14,Rio de Janeiro,Tanguá,330575,35,7
+2020-05-14,Rio de Janeiro,Teresópolis,330580,112,12
+2020-05-14,Rio de Janeiro,Três Rios,330600,42,1
+2020-05-14,Rio de Janeiro,Valença,330610,31,2
+2020-05-14,Rio de Janeiro,Vassouras,330620,9,1
+2020-05-14,Rio de Janeiro,Volta Redonda,330630,445,18
+2020-05-14,Rondônia,Alto Paraíso,110040,5,1
+2020-05-14,Rondônia,Buritis,110045,5,1
+2020-05-14,Rondônia,Campo Novo de Rondônia,110070,1,1
+2020-05-14,Rondônia,Cujubim,110094,2,1
+2020-05-14,Rondônia,Guajará-Mirim,110010,20,7
+2020-05-14,Rondônia,Ji-Paraná,110012,46,3
+2020-05-14,Rondônia,Mirante da Serra,110130,11,1
+2020-05-14,Rondônia,Porto Velho,110020,1295,40
+2020-05-14,Rondônia,Rolim de Moura,110028,10,1
+2020-05-14,Roraima,Alto Alegre,140005,16,2
+2020-05-14,Roraima,Boa Vista,140010,1189,31
+2020-05-14,Roraima,Caroebe,140023,20,1
+2020-05-14,Roraima,Pacaraima,140045,71,1
+2020-05-14,Santa Catarina,Antônio Carlos,420120,19,4
+2020-05-14,Santa Catarina,Araranguá,420140,22,1
+2020-05-14,Santa Catarina,Balneário Arroio do Silva,420195,8,1
+2020-05-14,Santa Catarina,Balneário Camboriú,420200,166,2
+2020-05-14,Santa Catarina,Balneário Gaivota,420207,9,1
+2020-05-14,Santa Catarina,Blumenau,420240,382,3
+2020-05-14,Santa Catarina,Braço do Norte,420280,107,2
+2020-05-14,Santa Catarina,Camboriú,420320,82,3
+2020-05-14,Santa Catarina,Caçador,420300,17,1
+2020-05-14,Santa Catarina,Cocal do Sul,420425,6,1
+2020-05-14,Santa Catarina,Concórdia,420430,209,4
+2020-05-14,Santa Catarina,Criciúma,420460,258,5
+2020-05-14,Santa Catarina,Florianópolis,420540,452,6
+2020-05-14,Santa Catarina,Gaspar,420590,31,1
+2020-05-14,Santa Catarina,Gravatal,420620,24,1
+2020-05-14,Santa Catarina,Guabiruba,420630,7,1
+2020-05-14,Santa Catarina,Indaial,420750,34,2
+2020-05-14,Santa Catarina,Itajaí,420820,159,3
+2020-05-14,Santa Catarina,Itapema,420830,28,1
+2020-05-14,Santa Catarina,Ituporanga,420850,4,1
+2020-05-14,Santa Catarina,Jaraguá do Sul,420890,61,2
+2020-05-14,Santa Catarina,Joinville,420910,282,9
+2020-05-14,Santa Catarina,Laguna,420940,15,2
+2020-05-14,Santa Catarina,Massaranduba,421060,1,1
+2020-05-14,Santa Catarina,Navegantes,421130,141,1
+2020-05-14,Santa Catarina,Palhoça,421190,46,1
+2020-05-14,Santa Catarina,Papanduva,421220,4,1
+2020-05-14,Santa Catarina,Pedras Grandes,421240,4,1
+2020-05-14,Santa Catarina,Penha,421250,26,1
+2020-05-14,Santa Catarina,Porto Belo,421350,8,1
+2020-05-14,Santa Catarina,Pouso Redondo,421370,1,1
+2020-05-14,Santa Catarina,Siderópolis,421760,15,1
+2020-05-14,Santa Catarina,Sombrio,421770,41,3
+2020-05-14,Santa Catarina,São Francisco do Sul,421620,15,1
+2020-05-14,Santa Catarina,São José,421660,78,1
+2020-05-14,Santa Catarina,São Ludgero,421700,28,1
+2020-05-14,Santa Catarina,Tangará,421790,3,1
+2020-05-14,Santa Catarina,Tubarão,421870,90,3
+2020-05-14,Santa Catarina,Urussanga,421900,14,1
+2020-05-14,Santa Catarina,Xaxim,421970,7,1
+2020-05-14,Sergipe,Aracaju,280030,1718,18
+2020-05-14,Sergipe,Canindé de São Francisco,280120,2,1
+2020-05-14,Sergipe,Carmópolis,280150,5,1
+2020-05-14,Sergipe,Estância,280210,79,1
+2020-05-14,Sergipe,Frei Paulo,280230,7,1
+2020-05-14,Sergipe,Gararu,280240,2,1
+2020-05-14,Sergipe,Itabaiana,280290,68,1
+2020-05-14,Sergipe,Itabaianinha,280300,18,1
+2020-05-14,Sergipe,Itaporanga d'Ajuda,280320,11,1
+2020-05-14,Sergipe,Japaratuba,280330,3,1
+2020-05-14,Sergipe,Lagarto,280350,29,2
+2020-05-14,Sergipe,Muribeca,280430,2,1
+2020-05-14,Sergipe,Nossa Senhora de Lourdes,280470,2,1
+2020-05-14,Sergipe,Nossa Senhora do Socorro,280480,175,5
+2020-05-14,Sergipe,Porto da Folha,280560,16,1
+2020-05-14,Sergipe,Propriá,280570,8,2
+2020-05-14,Sergipe,Riachão do Dantas,280580,2,1
+2020-05-14,Sergipe,Rosário do Catete,280610,6,1
+2020-05-14,Sergipe,Simão Dias,280710,17,2
+2020-05-14,Sergipe,São Cristóvão,280670,84,1
+2020-05-14,Sergipe,São Domingos,280680,3,1
+2020-05-14,Sergipe,Tobias Barreto,280740,5,1
+2020-05-14,Sergipe,Umbaúba,280760,23,2
+2020-05-14,São Paulo,Aguaí,350030,15,3
+2020-05-14,São Paulo,Agudos,350070,21,1
+2020-05-14,São Paulo,Americana,350160,64,4
+2020-05-14,São Paulo,Amparo,350190,16,1
+2020-05-14,São Paulo,Andradina,350210,24,2
+2020-05-14,São Paulo,Angatuba,350220,3,1
+2020-05-14,São Paulo,Arandu,350310,10,2
+2020-05-14,São Paulo,Araraquara,350320,122,4
+2020-05-14,São Paulo,Araras,350330,57,2
+2020-05-14,São Paulo,Araçariguama,350275,6,1
+2020-05-14,São Paulo,Araçatuba,350280,103,4
+2020-05-14,São Paulo,Arujá,350390,125,7
+2020-05-14,São Paulo,Assis,350400,31,4
+2020-05-14,São Paulo,Atibaia,350410,52,4
+2020-05-14,São Paulo,Avaré,350450,34,3
+2020-05-14,São Paulo,Bady Bassitt,350460,14,2
+2020-05-14,São Paulo,Barra Bonita,350530,16,1
+2020-05-14,São Paulo,Barretos,350550,83,5
+2020-05-14,São Paulo,Barrinha,350560,8,1
+2020-05-14,São Paulo,Barueri,350570,586,73
+2020-05-14,São Paulo,Batatais,350590,2,1
+2020-05-14,São Paulo,Bauru,350600,195,11
+2020-05-14,São Paulo,Bebedouro,350610,13,1
+2020-05-14,São Paulo,Bertioga,350635,37,2
+2020-05-14,São Paulo,Boituva,350700,26,1
+2020-05-14,São Paulo,Botucatu,350750,124,5
+2020-05-14,São Paulo,Bragança Paulista,350760,115,10
+2020-05-14,São Paulo,Caiabu,350890,1,1
+2020-05-14,São Paulo,Caieiras,350900,173,18
+2020-05-14,São Paulo,Cajamar,350920,118,14
+2020-05-14,São Paulo,Cajuru,350940,4,1
+2020-05-14,São Paulo,Campinas,350950,769,29
+2020-05-14,São Paulo,Campo Limpo Paulista,350960,32,3
+2020-05-14,São Paulo,Cananéia,350990,11,2
+2020-05-14,São Paulo,Capão Bonito,351020,10,4
+2020-05-14,São Paulo,Caraguatatuba,351050,87,4
+2020-05-14,São Paulo,Carapicuíba,351060,480,31
+2020-05-14,São Paulo,Catanduva,351110,59,6
+2020-05-14,São Paulo,Caçapava,350850,15,1
+2020-05-14,São Paulo,Cerquilho,351150,2,1
+2020-05-14,São Paulo,Charqueada,351170,17,1
+2020-05-14,São Paulo,Conchas,351230,4,1
+2020-05-14,São Paulo,Cotia,351300,303,27
+2020-05-14,São Paulo,Cravinhos,351310,13,1
+2020-05-14,São Paulo,Cruzeiro,351340,13,2
+2020-05-14,São Paulo,Cubatão,351350,111,7
+2020-05-14,São Paulo,Diadema,351380,567,45
+2020-05-14,São Paulo,Dois Córregos,351410,2,1
+2020-05-14,São Paulo,Dracena,351440,18,2
+2020-05-14,São Paulo,Eldorado,351480,3,1
+2020-05-14,São Paulo,Elias Fausto,351490,4,1
+2020-05-14,São Paulo,Embu das Artes,351500,281,25
+2020-05-14,São Paulo,Embu-Guaçu,351510,54,6
+2020-05-14,São Paulo,Fartura,351540,6,1
+2020-05-14,São Paulo,Ferraz de Vasconcelos,351570,193,23
+2020-05-14,São Paulo,Franca,351620,30,2
+2020-05-14,São Paulo,Francisco Morato,351630,148,17
+2020-05-14,São Paulo,Franco da Rocha,351640,235,21
+2020-05-14,São Paulo,Guararema,351830,21,1
+2020-05-14,São Paulo,Guarujá,351870,297,15
+2020-05-14,São Paulo,Guarulhos,351880,1295,152
+2020-05-14,São Paulo,Guará,351770,1,1
+2020-05-14,São Paulo,Hortolândia,351907,80,11
+2020-05-14,São Paulo,Ibitinga,351960,5,2
+2020-05-14,São Paulo,Ibiúna,351970,43,2
+2020-05-14,São Paulo,Iepê,351990,2,1
+2020-05-14,São Paulo,Ilha Comprida,352042,19,1
+2020-05-14,São Paulo,Indaiatuba,352050,43,10
+2020-05-14,São Paulo,Ipiguá,352115,1,1
+2020-05-14,São Paulo,Irapuru,352160,8,1
+2020-05-14,São Paulo,Itajobi,352190,11,1
+2020-05-14,São Paulo,Itanhaém,352210,29,2
+2020-05-14,São Paulo,Itapecerica da Serra,352220,228,17
+2020-05-14,São Paulo,Itapetininga,352230,45,2
+2020-05-14,São Paulo,Itapevi,352250,266,29
+2020-05-14,São Paulo,Itapira,352260,21,3
+2020-05-14,São Paulo,Itaquaquecetuba,352310,283,32
+2020-05-14,São Paulo,Itatiba,352340,15,2
+2020-05-14,São Paulo,Itu,352390,49,7
+2020-05-14,São Paulo,Itupeva,352400,15,2
+2020-05-14,São Paulo,Jaborandi,352420,6,1
+2020-05-14,São Paulo,Jaboticabal,352430,20,5
+2020-05-14,São Paulo,Jacareí,352440,70,4
+2020-05-14,São Paulo,Jaci,352450,82,1
+2020-05-14,São Paulo,Jandira,352500,124,8
+2020-05-14,São Paulo,Jardinópolis,352510,13,2
+2020-05-14,São Paulo,Jarinu,352520,8,4
+2020-05-14,São Paulo,Jaú,352530,90,2
+2020-05-14,São Paulo,José Bonifácio,352570,8,1
+2020-05-14,São Paulo,Jundiaí,352590,317,24
+2020-05-14,São Paulo,Juquitiba,352620,10,1
+2020-05-14,São Paulo,Laranjal Paulista,352640,7,2
+2020-05-14,São Paulo,Lavrinhas,352660,2,1
+2020-05-14,São Paulo,Leme,352670,17,3
+2020-05-14,São Paulo,Lençóis Paulista,352680,52,1
+2020-05-14,São Paulo,Limeira,352690,69,1
+2020-05-14,São Paulo,Lins,352710,25,5
+2020-05-14,São Paulo,Lorena,352720,20,1
+2020-05-14,São Paulo,Louveira,352730,31,2
+2020-05-14,São Paulo,Lucélia,352740,18,3
+2020-05-14,São Paulo,Mairinque,352840,18,1
+2020-05-14,São Paulo,Mairiporã,352850,77,6
+2020-05-14,São Paulo,Marília,352900,24,1
+2020-05-14,São Paulo,Mauá,352940,460,34
+2020-05-14,São Paulo,Mineiros do Tietê,352980,7,1
+2020-05-14,São Paulo,Miracatu,352990,18,2
+2020-05-14,São Paulo,Mirandópolis,353010,19,2
+2020-05-14,São Paulo,Mirassol,353030,15,1
+2020-05-14,São Paulo,Mococa,353050,15,2
+2020-05-14,São Paulo,Mogi Guaçu,353070,36,2
+2020-05-14,São Paulo,Mogi das Cruzes,353060,535,40
+2020-05-14,São Paulo,Mongaguá,353110,17,1
+2020-05-14,São Paulo,Monte Alto,353130,21,1
+2020-05-14,São Paulo,Monte Mor,353180,13,2
+2020-05-14,São Paulo,Nazaré Paulista,353240,10,1
+2020-05-14,São Paulo,Nova Odessa,353340,14,2
+2020-05-14,São Paulo,Orlândia,353430,4,1
+2020-05-14,São Paulo,Osasco,353440,1466,180
+2020-05-14,São Paulo,Ourinhos,353470,22,3
+2020-05-14,São Paulo,Pacaembu,353490,1,1
+2020-05-14,São Paulo,Pariquera-Açu,353620,58,1
+2020-05-14,São Paulo,Paulínia,353650,44,1
+2020-05-14,São Paulo,Pederneiras,353670,11,1
+2020-05-14,São Paulo,Pedrinhas Paulista,353715,3,1
+2020-05-14,São Paulo,Penápolis,353730,9,3
+2020-05-14,São Paulo,Pereira Barreto,353740,5,1
+2020-05-14,São Paulo,Peruíbe,353760,40,4
+2020-05-14,São Paulo,Piedade,353780,48,2
+2020-05-14,São Paulo,Pindamonhangaba,353800,23,1
+2020-05-14,São Paulo,Piracaia,353860,7,1
+2020-05-14,São Paulo,Piracicaba,353870,205,16
+2020-05-14,São Paulo,Piraju,353880,29,2
+2020-05-14,São Paulo,Pirajuí,353890,7,1
+2020-05-14,São Paulo,Pitangueiras,353950,1,1
+2020-05-14,São Paulo,Pontal,354020,6,1
+2020-05-14,São Paulo,Porto Ferreira,354070,5,1
+2020-05-14,São Paulo,Poá,353980,114,15
+2020-05-14,São Paulo,Pradópolis,354090,1,1
+2020-05-14,São Paulo,Praia Grande,354100,265,42
+2020-05-14,São Paulo,Presidente Epitácio,354130,3,1
+2020-05-14,São Paulo,Presidente Prudente,354140,69,4
+2020-05-14,São Paulo,Presidente Venceslau,354150,27,6
+2020-05-14,São Paulo,Quatá,354170,9,2
+2020-05-14,São Paulo,Rancharia,354220,3,1
+2020-05-14,São Paulo,Registro,354260,53,4
+2020-05-14,São Paulo,Ribeirão Pires,354330,112,11
+2020-05-14,São Paulo,Ribeirão Preto,354340,377,12
+2020-05-14,São Paulo,Rincão,354370,3,1
+2020-05-14,São Paulo,Rio Claro,354390,25,9
+2020-05-14,São Paulo,Rio Grande da Serra,354410,34,3
+2020-05-14,São Paulo,Salesópolis,354500,7,1
+2020-05-14,São Paulo,Santa Branca,354600,4,1
+2020-05-14,São Paulo,Santa Bárbara d'Oeste,354580,24,1
+2020-05-14,São Paulo,Santa Isabel,354680,42,7
+2020-05-14,São Paulo,Santa Rita do Passa Quatro,354750,4,1
+2020-05-14,São Paulo,Santana de Parnaíba,354730,254,9
+2020-05-14,São Paulo,Santo Anastácio,354770,4,1
+2020-05-14,São Paulo,Santo André,354780,1152,58
+2020-05-14,São Paulo,Santo Antônio da Alegria,354790,1,1
+2020-05-14,São Paulo,Santo Antônio do Pinhal,354820,5,1
+2020-05-14,São Paulo,Santos,354850,1147,73
+2020-05-14,São Paulo,Serrana,355150,23,3
+2020-05-14,São Paulo,Sertãozinho,355170,30,2
+2020-05-14,São Paulo,Sorocaba,355220,347,29
+2020-05-14,São Paulo,Sumaré,355240,89,3
+2020-05-14,São Paulo,Suzano,355250,322,32
+2020-05-14,São Paulo,São Bernardo do Campo,354870,1321,101
+2020-05-14,São Paulo,São Caetano do Sul,354880,287,19
+2020-05-14,São Paulo,São Carlos,354890,43,3
+2020-05-14,São Paulo,São José do Rio Preto,354980,325,11
+2020-05-14,São Paulo,São José dos Campos,354990,407,18
+2020-05-14,São Paulo,São João da Boa Vista,354910,28,2
+2020-05-14,São Paulo,São João das Duas Pontes,354920,2,1
+2020-05-14,São Paulo,São Lourenço da Serra,354995,14,1
+2020-05-14,São Paulo,São Luiz do Paraitinga,355000,1,1
+2020-05-14,São Paulo,São Manuel,355010,21,1
+2020-05-14,São Paulo,São Paulo,355030,31873,2596
+2020-05-14,São Paulo,São Roque,355060,31,2
+2020-05-14,São Paulo,São Sebastião,355070,210,2
+2020-05-14,São Paulo,São Sebastião da Grama,355080,4,1
+2020-05-14,São Paulo,São Vicente,355100,353,14
+2020-05-14,São Paulo,Taboão da Serra,355280,335,29
+2020-05-14,São Paulo,Tatuí,355400,47,2
+2020-05-14,São Paulo,Taubaté,355410,54,4
+2020-05-14,São Paulo,Tupã,355500,4,1
+2020-05-14,São Paulo,Uchoa,355560,4,1
+2020-05-14,São Paulo,Uru,355590,3,1
+2020-05-14,São Paulo,Valinhos,355620,51,4
+2020-05-14,São Paulo,Vargem Grande Paulista,355645,23,4
+2020-05-14,São Paulo,Vinhedo,355670,48,2
+2020-05-14,São Paulo,Viradouro,355680,1,1
+2020-05-14,São Paulo,Votorantim,355700,40,3
+2020-05-14,São Paulo,Votuporanga,355710,26,1
+2020-05-14,São Paulo,Várzea Paulista,355650,44,4
+2020-05-14,São Paulo,Águas de Lindóia,350050,5,1
+2020-05-14,Tocantins,Aguiarnópolis,170030,2,1
+2020-05-14,Tocantins,Araguatins,170220,19,1
+2020-05-14,Tocantins,Araguaína,170210,434,5
+2020-05-14,Tocantins,Augustinópolis,170255,8,2
+2020-05-14,Tocantins,Axixá do Tocantins,170290,23,1
+2020-05-14,Tocantins,Guaraí,170930,12,1
+2020-05-14,Tocantins,Gurupi,170950,43,1
+2020-05-14,Tocantins,Lizarda,171240,1,1
+2020-05-14,Tocantins,Miranorte,171330,5,1
+2020-05-14,Tocantins,Palmas,172100,211,3
+2020-05-14,Tocantins,Paraíso do Tocantins,171610,27,2
+2020-05-14,Tocantins,São Miguel do Tocantins,172020,25,2
+2020-05-14,Tocantins,Sítio Novo do Tocantins,172080,14,1
+2020-05-14,Tocantins,Tocantinópolis,172120,8,1

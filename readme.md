@@ -1,7 +1,7 @@
 Hi!
 
 My name is Nilton. 
-I'm System and Business Analyst. I'm studying and training to become an engineer and data scientist.
+I'm Data Engineer Analyst.
 
 Live in Recife, State of Pernambuco, Brazil.
 
@@ -16,8 +16,6 @@ Here you will find my data analysis putting into practice the knowledge acquired
 Access the files in the "notebooks" folder to view my data analysis, which I apply exploratory data analysis, classification models, clustering, and machine learning algorithms.
 
 I appreciate your visit.
-
-Contact: niltontac@gmail.com
 
 
 

@@ -1,15 +1,13 @@
 Hi!
 
 My name is Nilton. 
-I'm Data Engineer Analyst.
+I'm Data Engineer, Business and Systems Analyst.
 
 Live in Recife, State of Pernambuco, Brazil.
 
+I'm  Postgraduate in Data Analysis and Engineering at CESAR School, 
+and also Postgraduate (MBA) in Business Intelligence Analysis at Institute of Management and Information Technology - IGTI.
 Have degree in Information Systems at Uninassau.
-
-I'm also a Postgraduate (MBA) in Business Intelligence Analysis at Institute of Management and Information Technology - IGTI.
-
-Currently taking another postgraduate course (Specialization) in Data Analysis and Engineering at CESAR School in partnership with the Informatics Center at the Federal University of Pernambuco - CIn/UFPE.
 
 Here you will find my data analysis putting into practice the knowledge acquired mainly in the specialization in progress at CESAR School. 
 
